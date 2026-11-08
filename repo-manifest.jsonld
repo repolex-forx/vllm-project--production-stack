@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/vllm-project/production-stack/commit/405a2fa79992754d31f754c31b1eabb7183a540e",
       "git:hexsha": "405a2fa79992754d31f754c31b1eabb7183a540e",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "vllm-stack-0.1.14"
     },
     {
