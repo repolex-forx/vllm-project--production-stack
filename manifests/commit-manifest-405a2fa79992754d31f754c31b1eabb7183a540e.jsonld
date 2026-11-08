@@ -45,13 +45,19 @@
     },
     {
       "@type": "repolex:GraphFile",
+      "repolex:graphType": "repolex",
+      "repolex:graphFilePath": "aggregate/repolex/405a2fa79992754d31f754c31b1eabb7183a540e/chunk-001.nq.gz",
+      "repolex:graphFileSize": 2207587
+    },
+    {
+      "@type": "repolex:GraphFile",
       "repolex:graphType": "ast",
       "repolex:graphFilePath": "aggregate/ast/405a2fa79992754d31f754c31b1eabb7183a540e/chunk-001.nq.gz",
       "repolex:graphFileSize": 12779118
     }
   ],
-  "repolex:parseStatus": "ast_complete",
-  "repolex:parsedAt": "2026-11-08T06:23:50.541373+00:00",
+  "repolex:parseStatus": "parsed",
+  "repolex:parsedAt": "2026-11-08T06:26:43.181098+00:00",
   "repolex:parserVersion": "0.1.10",
   "git:tagName": "vllm-stack-0.1.14"
 }

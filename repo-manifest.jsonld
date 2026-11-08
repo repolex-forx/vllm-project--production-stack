@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/vllm-project/production-stack/commit/405a2fa79992754d31f754c31b1eabb7183a540e",
       "git:hexsha": "405a2fa79992754d31f754c31b1eabb7183a540e",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "vllm-stack-0.1.14"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "vllm-stack-0.1.14",
+      "repolex:parsedAt": "2026-11-08T06:26:43.180503+00:00"
     },
     {
       "@id": "https://repolex.ai/r/vllm-project/production-stack/commit/ecca0682debbcefb0ecdc1c153aa9417de3ccc65",
