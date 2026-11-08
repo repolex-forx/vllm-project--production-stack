@@ -1,0 +1,11 @@
+{
+  "org": "vllm-project",
+  "repo": "production-stack",
+  "versions": [
+    {
+      "commit": "405a2fa79992754d31f754c31b1eabb7183a540e",
+      "tag": "vllm-stack-0.1.14",
+      "parsed_at": "2026-11-08T06:26:43.181098+00:00"
+    }
+  ]
+}
